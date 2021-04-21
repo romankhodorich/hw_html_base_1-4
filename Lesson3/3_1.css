@@ -1,0 +1,19 @@
+.square {
+    list-style-type: square;
+}
+
+.numbered {
+    list-style-type: decimal;
+}
+
+.romanian {
+    list-style-type: upper-roman;
+}
+
+.navbar {
+    list-style-type: none;
+}
+
+.nav__heading {
+    color: rgb(37, 0, 107);
+}

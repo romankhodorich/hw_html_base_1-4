@@ -1,0 +1,57 @@
+.navbar {
+    list-style-type: none;
+}
+
+.nav__heading {
+    color: rgb(37, 0, 107);
+}
+
+/* 
+Шрифт — Arial
+Синий цвет - blue
+Красный цвет — red
+Зеленый цвет - green
+Размер шрифта 1ый абзац — 14px, второй 12px. 
+Размеры остальных абзацев думаю вам понятны.
+*/
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 50px 100px;
+}
+
+.heading_main {
+    text-align: center;
+    color: blue;
+}
+
+.p1 {
+    margin-top: 20px;
+    font-size: 14px;
+}
+
+.p2 {
+    margin-top: 20px;
+    font-size: 12px;
+}
+
+.p3 {
+    margin-top: 20px;
+    font-size: 13px;
+}
+
+.p_right {
+    text-align: right;
+}
+
+.p_center {
+    text-align: center;
+}
+
+.p_justify {
+    text-align: justify;
+}

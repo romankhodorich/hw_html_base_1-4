@@ -1,0 +1,27 @@
+.yellow {
+    width: 150px;
+    height: 50px;
+    background: yellow;
+    margin: 15px;
+}
+
+.blue {
+    width: 200px;
+    background: blue;
+    border: 1px solid blue;
+}
+
+@font-face {
+    font-family: '19442';
+    /* Имя шрифта */
+    src: url(fonts/19442.ttf);
+}
+
+p {
+    font-family: '19442';
+    /* Вот так используем шрифт*/
+}
+
+.roboto {
+    font-family: 'roboto';
+}
